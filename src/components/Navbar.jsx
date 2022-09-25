@@ -32,7 +32,7 @@ const Navbar = () => {
       {toggleBar && (
         <div className="bg-[#212529] pb-2 sm:hidden absolute w-full z-10 ">
           <ul className="ml-[.7rem]">
-            {["services", "portfolio", "about us", "staff", "contact us"].map(
+            {["Services", "Portfolio", "About Us", "Staff", "Contact Us"].map(
               (item, idx) => (
                 <li
                   key={idx}
