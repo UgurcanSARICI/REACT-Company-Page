@@ -16,7 +16,7 @@ const Navbar = () => {
           </div>
           {console.log(toggleBar)}
           <ul className="sm:flex hidden">
-            {["services", "portfolio", "about us", "staff", "contact us"].map(
+            {["Services", "Portfolio", "About Us", "Staff", "Contact Us"].map(
               (item, idx) => (
                 <li
                   key={idx}

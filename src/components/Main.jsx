@@ -15,9 +15,9 @@ const Main = () => {
           <p className="text-4xl text-purple-500">
             The It career of your dreams starts here
           </p>
-          <p className="text-5xl text-purple-300">alpha tech</p>
+          <p className="text-5xl text-purple-300">Alpha Tech Community</p>
           <button className="bg-red-700 px-4 py-2 mt-6 text-white rounded-lg hover:bg-red-900 duration-200">
-            our services
+            Our services
           </button>
         </div>
       </div>
